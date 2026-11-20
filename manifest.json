@@ -1,0 +1,54 @@
+{
+  "project": "AetherMemory",
+  "version": "1.0.0",
+  "date": "2026-11-19",
+  "record_id": "AETHERMEMORY-01",
+  "position": 12,
+  "status": "candidate",
+  "phase": 0,
+  "phase_status": "in_progress",
+  "decision": "E_undetermined_interim",
+  "author": {
+    "name": "Samir Baladi",
+    "email": "gitdeeper@gmail.com",
+    "orcid": "0009-0003-8903-0029",
+    "affiliation": "Ronin Institute / Rite of Renaissance"
+  },
+  "license": {
+    "docs": "CC-BY-4.0",
+    "code": "MIT (future — none in this release)"
+  },
+  "doi": {
+    "zenodo": "10.6084/m9.figshare.35069155"
+  },
+  "urls": {
+    "github": "https://github.com/gitdeeper15/aethermemory",
+    "gitlab": "https://gitlab.com/gitdeeper15/aethermemory",
+    "codeberg": "https://codeberg.org/gitdeeper15/aethermemory",
+    "bitbucket": "https://bitbucket.org/gitdeeper15/aethermemory",
+    "website": "https://aethermemory.netlify.app",
+    "zenodo": "https://doi.org/10.6084/m9.figshare.35069155"
+  },
+  "structural_dependency": [
+    "AetherPolicy (Phase 4 paused)",
+    "AetherAudit (Phase 4 paused)"
+  ],
+  "counts": {
+    "lifecycle_stages": 7,
+    "failure_conditions": 4,
+    "propositions": 2,
+    "responsibilities": 5,
+    "figures": 9,
+    "tests_run": 0,
+    "experiments_executed": 0,
+    "implementations": 0
+  },
+  "claims_not_made": [
+    "independence_of_the_dimension",
+    "completeness_of_the_five_stages",
+    "sufficiency_of_the_boundaries",
+    "genuineness_of_the_gap",
+    "observable_benefit",
+    "causal_effect"
+  ]
+}

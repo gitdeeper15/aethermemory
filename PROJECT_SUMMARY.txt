@@ -1,0 +1,122 @@
+═══════════════════════════════════════════════════════════════════════════
+  AetherMemory v1.0.0 — Project Summary
+═══════════════════════════════════════════════════════════════════════════
+
+  Memory Lifecycle Integrity in Autonomous Multi-Agent Systems
+
+  Version        : 1.0.0 (Architectural Hypothesis)
+  Date           : 2026-11-19
+  Record ID      : AETHERMEMORY-01
+  Position       : Twelfth project of the Aether family (candidate)
+  Author         : Samir Baladi (gitdeeper@gmail.com)
+  ORCID          : 0009-0003-8903-0029
+  License        : CC-BY-4.0 (this document) + MIT (code, future)
+  Structural Dep.: AetherPolicy (Phase 4 paused), AetherAudit (Phase 4 paused)
+
+───────────────────────────────────────────────────────────────────────────
+  STATUS
+───────────────────────────────────────────────────────────────────────────
+
+  Architectural Hypothesis. Phase 0 (In Progress).
+  Decision: (E) Undetermined (interim).
+
+  No implementation, specification, test, or experiment is reported.
+
+───────────────────────────────────────────────────────────────────────────
+  CENTRAL QUESTION
+───────────────────────────────────────────────────────────────────────────
+
+  How can persistent knowledge in autonomous multi-agent systems be managed
+  across its complete lifecycle — acquisition, qualification, consolidation,
+  persistence, retrieval, revision, and expiration — without reducing it to
+  data storage or losing semantic integrity?
+
+───────────────────────────────────────────────────────────────────────────
+  SEVEN LIFECYCLE STAGES (INITIAL SCOPE)
+───────────────────────────────────────────────────────────────────────────
+
+  S1 — Acquisition          How is knowledge acquired?
+  S2 — Qualification        Is the source valid and trustworthy?
+  S3 — Consolidation        How is duplicate or conflicting knowledge resolved?
+  S4 — Persistence          How is knowledge preserved across sessions?
+  S5 — Retrieval            How is knowledge retrieved by context and authority?
+  S6 — Revision             How is knowledge updated or superseded?
+  S7 — Expiration & Forgetting  How does knowledge expire or get forgotten?
+
+───────────────────────────────────────────────────────────────────────────
+  ARCHITECTURAL HYPOTHESIS
+───────────────────────────────────────────────────────────────────────────
+
+  A potentially independent architectural gap may exist between storage,
+  consistency, policy, and audit: the management of persistent knowledge across
+  its complete lifecycle — from acquisition through expiration — with semantic
+  integrity preserved.
+
+  This hypothesis is falsifiable.
+
+───────────────────────────────────────────────────────────────────────────
+  FAILURE CONDITIONS (M-F1 TO M-F4)
+───────────────────────────────────────────────────────────────────────────
+
+  M-F1  Non-redundancy            Untested
+  M-F2  Distinction from Git + Mesh + Policy + Audit  Untested
+  M-F3  Decentralizability        Untested
+  M-F4  Observable benefit        Untested
+
+───────────────────────────────────────────────────────────────────────────
+  INDEPENDENCE DECISION (PHASE 0)
+───────────────────────────────────────────────────────────────────────────
+
+  Classification : (E) Undetermined (interim)
+
+  The investigation has just begun. No evidence has been collected, no
+  experiment has been run, and no failure condition has been tested.
+
+───────────────────────────────────────────────────────────────────────────
+  WHAT THIS PROJECT DOES NOT CLAIM
+───────────────────────────────────────────────────────────────────────────
+
+  - That AetherMemory is an independent architectural dimension.
+  - That the seven lifecycle stages are complete.
+  - That the boundaries with AetherGit, AetherMesh, AetherPolicy, AetherAudit,
+    and the other dimensions are sufficient.
+  - That the gap is genuine.
+  - That implementation should begin.
+
+───────────────────────────────────────────────────────────────────────────
+  PHASE STATUS
+───────────────────────────────────────────────────────────────────────────
+
+  0  Architectural Hypothesis       In progress (ARCHITECTURAL_HYPOTHESIS.md)
+  1  Responsibility Mapping         Not started (research/RESPONSIBILITY_BOUNDARIES.md)
+  2  Hypothesis Review              Not started (REVIEW/INTERNAL_REVIEW.md)
+  3  Falsification Conditions       Not started (FALSIFICATION/FALSIFICATION_PLAN.md)
+  4  Independence Decision          Not started (DECISIONS/INDEPENDENCE_DECISION.md) -- (E)
+  5  Specification                  Not permitted
+  6  Implementation                 Not permitted
+  7  Evaluation                     Not permitted
+
+───────────────────────────────────────────────────────────────────────────
+  RELATION TO AETHERGIT, AETHERMESH, AETHERPOLICY, AND AETHERAUDIT
+───────────────────────────────────────────────────────────────────────────
+
+  AetherMemory is the TWELFTH project. It does NOT replace AetherGit, AetherMesh,
+  AetherPolicy, or AetherAudit. It investigates whether knowledge has a lifecycle
+  that requires a distinct architectural responsibility, not whether storage,
+  consistency, policy, or audit are unnecessary.
+
+───────────────────────────────────────────────────────────────────────────
+  LINKS
+───────────────────────────────────────────────────────────────────────────
+
+  GitHub    : https://github.com/gitdeeper15/aethermemory
+  GitLab    : https://gitlab.com/gitdeeper15/aethermemory
+  Codeberg  : https://codeberg.org/gitdeeper15/aethermemory
+  Bitbucket : https://bitbucket.org/gitdeeper15/aethermemory
+  Website   : https://aethermemory.netlify.app
+  ORCID     : https://orcid.org/0009-0003-8903-0029
+  Zenodo    : https://doi.org/10.6084/m9.figshare.35069155
+
+───────────────────────────────────────────────────────────────────────────
+  "AetherMemory is a candidate, not a result."
+═══════════════════════════════════════════════════════════════════════════

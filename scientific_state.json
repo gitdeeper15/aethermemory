@@ -1,0 +1,66 @@
+{
+  "project": "AetherMemory",
+  "version": "1.0.0",
+  "date": "2026-11-19",
+  "phase": 0,
+  "phase_name": "Architectural Hypothesis",
+  "phase_status": "in_progress",
+  "decision": "E_undetermined_interim",
+  "decision_rationale": {
+    "insufficient_to_accept": [
+      "All four failure conditions (M-F1 to M-F4) are untested",
+      "No implementation or experiment has been run",
+      "Structural dependency on AetherPolicy and AetherAudit (both paused at Phase 4)",
+      "AetherMemory is a candidate, not a confirmed dimension"
+    ],
+    "insufficient_to_reject": [
+      "No failure condition has been falsified",
+      "The lifecycle integrity question is coherent",
+      "Related work exists but does not fully cover the lifecycle gap"
+    ]
+  },
+  "failure_conditions": {
+    "M-F1": "untested",
+    "M-F2": "untested",
+    "M-F3": "untested",
+    "M-F4": "untested"
+  },
+  "propositions": {
+    "P1": "proof_sketch_not_machine_checked",
+    "P2": "proof_sketch_not_machine_checked"
+  },
+  "structural_dependency": {
+    "AetherPolicy": "Phase 4 paused",
+    "AetherAudit": "Phase 4 paused"
+  },
+  "threats": {
+    "T1": "author_on_author_reasoning",
+    "T2": "no_independent_review",
+    "T3": "structural_dependency_on_policy_and_audit",
+    "T4": "deletion_vs_forgetting_may_be_semantic",
+    "T5": "scope_bounded_retrieval_may_reduce_to_govern",
+    "T6": "no_measurement",
+    "T7": "related_work_may_cover_the_gap"
+  },
+  "counts": {
+    "lifecycle_stages": 7,
+    "responsibilities": 5,
+    "failure_conditions": 4,
+    "propositions": 2,
+    "figures": 9,
+    "tests_run": 0,
+    "experiments_executed": 0,
+    "implementations": 0
+  },
+  "claims_not_made": [
+    "independence_of_the_dimension",
+    "completeness_of_the_five_stages",
+    "sufficiency_of_the_boundaries",
+    "genuineness_of_the_gap",
+    "observable_benefit",
+    "causal_effect"
+  ],
+  "doi": {
+    "zenodo": "10.6084/m9.figshare.35069155"
+  }
+}

@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "AetherMemory: Memory Lifecycle Integrity in Autonomous Multi-Agent Systems"
+version: 1.0.0
+doi: 10.5281/zenodo.24372288
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24372288
+    description: "Zenodo Archive (Primary)"
+  - type: doi
+    value: 10.6084/m9.figshare.35069155
+    description: "Figshare Mirror"
+  - type: url
+    value: "https://github.com/gitdeeper15/aethermemory"
+    description: "GitHub Repository"
+  - type: url
+    value: "https://aethermemory.netlify.app"
+    description: "Project Website"
+authors:
+  - family-names: "Baladi"
+    given-names: "Samir"
+    orcid: "https://orcid.org/0009-0003-8903-0029"
+    affiliation: "Ronin Institute / Rite of Renaissance"
+repository-code: "https://github.com/gitdeeper15/aethermemory"
+url: "https://doi.org/10.5281/zenodo.24372288"
+license: CC-BY-4.0
+keywords:
+  - multi-agent systems
+  - persistent memory
+  - memory lifecycle
+  - knowledge validity
+  - forgetting semantics
+  - falsification-first
+  - architectural investigation
+  - Aether family
+  - semantic integrity
+abstract: >-
+  AetherMemory is the twelfth candidate of the Aether family. It investigates
+  whether persistent knowledge in autonomous multi-agent systems requires a
+  distinct architectural dimension — a memory lifecycle — that cannot be
+  reduced to storage (AetherGit), consistency (AetherMesh), policy
+  (AetherPolicy), or audit (AetherAudit). Current status: Phase 0
+  (Architectural Hypothesis). Decision: (E) Undetermined (interim). No
+  implementation exists. The repository contains the hypothesis, the boundary
+  map, the falsification plan, partial execution of M-F1, M-F2, and M-F3, a
+  status declaration for M-F4, the independence decision, and an independent
+  review by Jonathan Rabe (2026-11-19). AetherMemory is a candidate, not a
+  result.
+date-released: 2026-11-20
