@@ -296,7 +296,7 @@ Related Aether Projects
 9 AetherPolicy Candidate (Phase 4: paused) 10.5281/zenodo.24160047
 10 AetherAudit Candidate (Phase 4: paused) 10.5281/zenodo.24274628
 11 AetherHuman Candidate (Phase 4: paused) 10.5281/zenodo.24315874
-12 AetherMemory Candidate (this repository; Phase 0)  10.5281/zenodo.24372288
+12 AetherMemory Candidate (this repository; Phase 0) Zenodo · Figshare
 
 ---
 
@@ -467,81 +467,3 @@ Figshare DOI: 10.6084/m9.figshare.35069155
 AetherMemory is a candidate, not a result.
 
 </div>
-
-## Figures
-
-Figures 1–9 are described in the paper and stored in `docs/figures/`.
-
-<details open>
-<summary><b>Figure 1 — The Twelve Dimensions of the Aether Family</b></summary>
-<br>
-
-![Figure 1 — The Twelve Dimensions of the Aether Family](docs/figures/Fig1_Twelve_Dimensions.png)
-
-</details>
-
-<details>
-<summary><b>Figure 2 — AetherMemory Lifecycle (Seven Stages)</b></summary>
-<br>
-
-![Figure 2 — AetherMemory Lifecycle](docs/figures/Fig2_Memory_Lifecycle.png)
-
-</details>
-
-<details>
-<summary><b>Figure 3 — Candidate Architectural Responsibilities (M1–M5)</b></summary>
-<br>
-
-![Figure 3 — Candidate Architectural Responsibilities](docs/figures/Fig3_Memory_Responsibilities.png)
-
-</details>
-
-<details>
-<summary><b>Figure 4 — AetherMemory and Its Boundaries</b></summary>
-<br>
-
-![Figure 4 — AetherMemory and Its Boundaries](docs/figures/Fig4_Boundaries.png)
-
-</details>
-
-<details>
-<summary><b>Figure 5 — The Falsification Procedure (M-F1 to M-F4)</b></summary>
-<br>
-
-![Figure 5 — The Falsification Procedure](docs/figures/Fig5_Falsification_Procedure.png)
-
-</details>
-
-<details>
-<summary><b>Figure 6 — Phase Status (Phase 0 in Progress)</b></summary>
-<br>
-
-![Figure 6 — Phase Status](docs/figures/Fig6_Phase_Status.png)
-
-</details>
-
-<details>
-<summary><b>Figure 7 — The Five Decision Outcomes (A / R / F / D / E)</b></summary>
-<br>
-
-![Figure 7 — The Five Decision Outcomes](docs/figures/Fig7_Decision_Outcomes.png)
-
-</details>
-
-<details>
-<summary><b>Figure 8 — Coverage Matrix: Seven Stages × Existing Dimensions</b></summary>
-<br>
-
-![Figure 8 — Coverage Matrix](docs/figures/Fig8_Overlap_Matrix.png)
-
-</details>
-
-<details>
-<summary><b>Figure 9 — Evaluation Design: Scenarios × Metrics × Failure Conditions</b></summary>
-<br>
-
-![Figure 9 — Evaluation Design](docs/figures/Fig9_Evaluation_Design.png)
-
-</details>
-
----
