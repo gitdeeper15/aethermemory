@@ -213,7 +213,7 @@ AetherMemory/
 │
 ├── docs/
 │   └── figures/
-│       ├── Fig1_Twelve_Dimensions.png
+│       ├── Fig1_Twelve_Dimensions.png)
 │       ├── Fig2_Memory_Lifecycle.png
 │       ├── Fig3_Memory_Responsibilities.png
 │       ├── Fig4_Boundaries.png
@@ -308,7 +308,7 @@ Figures 1–9 are described in the paper and stored in docs/figures/.
 <summary><b>Figure 1 — The Twelve Dimensions of the Aether Family</b></summary>
 <br>
 
-docs/figures/Fig1_Twelve_Dimensions.png
+![Figure 1](docs/figures/Fig1_Twelve_Dimensions.png)
 
 </details>
 
